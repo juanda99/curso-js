@@ -1,0 +1,299 @@
+{
+  "main": {
+    "id": "c5f92125e2628398",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecb6380335fbf60b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9dc5963226096e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "extras/Documentación Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a850211fa195f3d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Entorno de trabajo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d619de022712fc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Entorno de trabajo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "359771044b88b6a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Entorno de trabajo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a0ae7bf4ae30bec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "extras/Lenguaje Markdown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ef7cb9dda78a9b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "node.js/Instalación de paquetes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9acfb91fe67b04e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "node.js/Proyecto base.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c1247c94d5c62b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "extras/prettier.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65f8449636ad0202",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Entorno de trabajo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "630bb69e5fa463b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Entorno de trabajo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f684dbac276d1af4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Fundamentos del DOM y eventos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f7e7803d78d5524",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tareas/Tareas pendientes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b89a2ae51e46fbdf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 12
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "073e7a391cd9fa98",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4ceba9676f46d42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6677d988dd4c1e1e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8acf012fc2082ed7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#entorno",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c18d56b2493b2869",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f0b2794c7be8d95c",
+    "type": "split",
+    "children": [
+      {
+        "id": "13151d2108fc9db3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6965b9bbdb9210b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f611e58bc45ccd9a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "abded3172e360f4f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7ef5853bdcc4c7a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b89a2ae51e46fbdf",
+  "lastOpenFiles": [
+    "4. Fundamentos del DOM y eventos.md",
+    "Proyectos/Proyecto 1 - Adivinar número/Instrucciones.md",
+    "3. Fundamentos de JavaScript.md",
+    "tareas/Tareas pendientes.md",
+    "tareas/Tareas hechas.md",
+    "node.js/Proyecto base.md",
+    "node.js/Instalación de paquetes.md",
+    "extras/Versionado semántico.md",
+    "extras/prettier.md",
+    "extras/Lenguaje Markdown.md"
+  ]
+}

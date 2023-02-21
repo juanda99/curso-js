@@ -1,6 +1,6 @@
+[Documentación de  prettier](https://prettier.io/)
 ```bash
 npm i -D prettier
-
 ```
 Crear un  fichero *.prettierrc.json* vacío (con dos llaves):
 ```bash

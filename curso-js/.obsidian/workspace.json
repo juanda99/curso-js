@@ -97,19 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "extras/prettier.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "630bb69e5fa463b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Fundamentos de JavaScript.md",
+                "file": "extras/eslint.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,12 +131,8 @@
             "id": "b89a2ae51e46fbdf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -162,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -212,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 333.5
   },
   "right": {
     "id": "f0b2794c7be8d95c",
@@ -228,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Fundamentos de JavaScript.md",
+                "file": "extras/eslint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Fundamentos de JavaScript.md",
+                "file": "extras/eslint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Fundamentos de JavaScript.md"
+                "file": "extras/eslint.md"
               }
             }
           }
@@ -289,17 +273,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "630bb69e5fa463b8",
+  "active": "9c1247c94d5c62b2",
   "lastOpenFiles": [
+    "extras/Visual Studio Code/Plugins en Visual Studio Code.md",
+    "extras/eslint.md",
+    "node.js/Proyecto base.md",
+    "extras/prettier.md",
     "2. Entorno de trabajo.md",
     "3. Fundamentos de JavaScript.md",
     "4. Fundamentos del DOM y eventos.md",
     "Proyectos/Proyecto 1 - Adivinar número/Instrucciones.md",
-    "extras/Visual Studio Code/Plugins en Visual Studio Code.md",
-    "extras/prettier.md",
     "1. Introducción.md",
-    "extras/Lenguaje Markdown.md",
-    "Untitled.md",
-    "asssets/arbol-dom.png"
+    "extras/Lenguaje Markdown.md"
   ]
 }

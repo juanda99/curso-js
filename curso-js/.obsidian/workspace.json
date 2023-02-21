@@ -104,24 +104,12 @@
             }
           },
           {
-            "id": "65f8449636ad0202",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Entorno de trabajo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "630bb69e5fa463b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Entorno de trabajo.md",
+                "file": "3. Fundamentos de JavaScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,12 +143,26 @@
             "id": "b89a2ae51e46fbdf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b1890869f036dd9",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "asssets/arbol-dom.png"
+              }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -189,7 +191,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#entorno",
+                "query": "Debug",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,7 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "f0b2794c7be8d95c",
@@ -226,6 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3. Fundamentos de JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,6 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3. Fundamentos de JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +267,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3. Fundamentos de JavaScript.md"
+              }
             }
           }
         ]
@@ -283,17 +289,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b89a2ae51e46fbdf",
+  "active": "630bb69e5fa463b8",
   "lastOpenFiles": [
+    "2. Entorno de trabajo.md",
+    "3. Fundamentos de JavaScript.md",
     "4. Fundamentos del DOM y eventos.md",
     "Proyectos/Proyecto 1 - Adivinar número/Instrucciones.md",
-    "3. Fundamentos de JavaScript.md",
-    "tareas/Tareas pendientes.md",
-    "tareas/Tareas hechas.md",
-    "node.js/Proyecto base.md",
-    "node.js/Instalación de paquetes.md",
-    "extras/Versionado semántico.md",
+    "extras/Visual Studio Code/Plugins en Visual Studio Code.md",
     "extras/prettier.md",
-    "extras/Lenguaje Markdown.md"
+    "1. Introducción.md",
+    "extras/Lenguaje Markdown.md",
+    "Untitled.md",
+    "asssets/arbol-dom.png"
   ]
 }

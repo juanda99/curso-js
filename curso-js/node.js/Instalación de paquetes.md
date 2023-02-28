@@ -24,6 +24,13 @@ npm i -D <nombre paquete>
 ```
 
 
+## Borrar paquetes
+
+```bash
+npm remove <nombre-paquete>
+```
+
+
 ## Ficheros de dependencias
 
 ### package.json

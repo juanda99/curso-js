@@ -49,4 +49,7 @@ Muestra listado de etiquetas
 
 ## [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 
+## [Snippets para ecosistema React y ES7](ES7+ React/Redux/React-Native snippetsES7+ React/Redux/React-Native snippets)
+
+
 

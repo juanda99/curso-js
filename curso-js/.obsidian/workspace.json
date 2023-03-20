@@ -1,166 +1,75 @@
 {
   "main": {
-    "id": "c5f92125e2628398",
+    "id": "bef0d236233c49de",
     "type": "split",
     "children": [
       {
-        "id": "ecb6380335fbf60b",
+        "id": "5391b14ae08f6fab",
         "type": "tabs",
         "children": [
           {
-            "id": "d9dc5963226096e0",
+            "id": "51f0a44b238f90b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "extras/Documentación Obsidian.md",
+                "file": "JavaScript/7. Async.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a850211fa195f3d9",
+            "id": "ea37d696914147d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Entorno de trabajo.md",
+                "file": "JavaScript/5. Arrays y objetos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1d619de022712fc0",
+            "id": "d4d55d1594cfddce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Entorno de trabajo.md",
+                "file": "Proyectos/Proyecto 3 - Ventanas modales/Instrucciones.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "359771044b88b6a7",
+            "id": "158cbe1a0dd09c76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Entorno de trabajo.md",
+                "file": "Proyectos/Proyecto 4 - Pig Game/Instrucciones.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "8a0ae7bf4ae30bec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "extras/Lenguaje Markdown.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ef7cb9dda78a9b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "node.js/Instalación de paquetes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9acfb91fe67b04e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "node.js/Proyecto base.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c1247c94d5c62b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "extras/eslint.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f684dbac276d1af4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Fundamentos del DOM y eventos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f7e7803d78d5524",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tareas/Tareas pendientes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b89a2ae51e46fbdf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6b1890869f036dd9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "asssets/arbol-dom.png"
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "073e7a391cd9fa98",
+    "id": "db5771c09e0769fd",
     "type": "split",
     "children": [
       {
-        "id": "a4ceba9676f46d42",
+        "id": "1791110c03170516",
         "type": "tabs",
         "children": [
           {
-            "id": "6677d988dd4c1e1e",
+            "id": "4ab77eb78535ab54",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -170,12 +79,12 @@
             }
           },
           {
-            "id": "8acf012fc2082ed7",
+            "id": "2bc85d019be20b03",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "Debug",
+                "query": "\"```jsconsole.log('Test start');setTimeout(() => console.log('0 sec timer'), 0);Promise.resolve('Resolved promise 1').then(res => console.log(res));Promise.resolve('Resolved promise 2').then(res => {\tfor (let i = 0; i < 1000000000; i++) {}\tconsole.log(res);});\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,7 +94,7 @@
             }
           },
           {
-            "id": "c18d56b2493b2869",
+            "id": "9255139924bc29af",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -196,23 +105,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 426.5
   },
   "right": {
-    "id": "f0b2794c7be8d95c",
+    "id": "460b30a8de3729f1",
     "type": "split",
     "children": [
       {
-        "id": "13151d2108fc9db3",
+        "id": "208a4c8e0d5b2431",
         "type": "tabs",
         "children": [
           {
-            "id": "6965b9bbdb9210b7",
+            "id": "17487cf164ae8bd4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "extras/eslint.md",
+                "file": "JavaScript/7. Async.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,19 +133,19 @@
             }
           },
           {
-            "id": "f611e58bc45ccd9a",
+            "id": "949867fba193066e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "extras/eslint.md",
+                "file": "JavaScript/7. Async.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "abded3172e360f4f",
+            "id": "59b3f6722638126c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -247,12 +156,12 @@
             }
           },
           {
-            "id": "7ef5853bdcc4c7a9",
+            "id": "b61baf9683b48c13",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "extras/eslint.md"
+                "file": "JavaScript/7. Async.md"
               }
             }
           }
@@ -273,17 +182,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c1247c94d5c62b2",
+  "active": "4ab77eb78535ab54",
   "lastOpenFiles": [
-    "extras/Visual Studio Code/Plugins en Visual Studio Code.md",
-    "extras/eslint.md",
-    "node.js/Proyecto base.md",
+    "JavaScript/js-engine.png",
+    "JavaScript/7. Async.md",
+    "JavaScript/http-request.png",
+    "JavaScript/http-request 1.png",
+    "JavaScript/runtime-node.js.png",
+    "JavaScript/runtime-js.png",
+    "JavaScript/prototype-inheritance.png",
+    "JavaScript/promises.png.png",
+    "JavaScript/js-objects.png",
+    "JavaScript/hoisting.png",
+    "JavaScript/event-loop.png",
+    "JavaScript/6. Arrays.md",
+    "http-request.png.md",
+    "Proyectos/Proyecto 5 - Cuenta bancaria/Instrucciones.md",
+    "Proyectos/Proyecto 4 - Pig Game/Instrucciones.md",
+    "Proyectos/Proyecto 5 - Cuenta bancaria",
+    "Proyectos/Proyecto 3 - Ventanas modales/Instrucciones.md",
+    "Proyectos/Proyecto 4 - Pig Game",
+    "JavaScript/5. Arrays y objetos.md",
+    "extras/Problemas con git.md",
     "extras/prettier.md",
-    "2. Entorno de trabajo.md",
-    "3. Fundamentos de JavaScript.md",
-    "4. Fundamentos del DOM y eventos.md",
-    "Proyectos/Proyecto 1 - Adivinar número/Instrucciones.md",
-    "1. Introducción.md",
-    "extras/Lenguaje Markdown.md"
+    "node.js/Proyecto base.md",
+    "extras/eslint.md",
+    "JavaScript/4. Fundamentos del DOM y eventos.md"
   ]
 }

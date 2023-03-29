@@ -56,3 +56,4 @@ const movements = [
 - [ ] Poder ordenar el listado de movimientos. #todo 
 - [ ] Mostrar fechas con texto del tipo "hace 2 días" mediante la librería moment.js. #todo 
 - [ ] Recibir los movimientos de una petición AJAX #todo 
+- [ ] Generar datos aleatorios vía https://fakerjs.dev/ o mediante una función propia (para movimientos: importe y fecha)

@@ -1,4 +1,4 @@
-- [ ] Saber  escribir mediante sintáxis markdown 📅 2023-02-21 #extras
+- [ ] Saber  escribir mediante sintáxis markdown  #extras
 
 # Título  nivel 1
 

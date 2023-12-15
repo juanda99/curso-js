@@ -1,4 +1,4 @@
-
+## Problemas con Git
 
 - Yo hago cambios
 git pull (traeis cambios)

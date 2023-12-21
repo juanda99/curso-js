@@ -37,7 +37,12 @@ Está bien que lo haga por nosotros pero  puede ser que algunas cosas nos gusten
 
 
 ## [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-¡¡**Necesita tener  instalado el paquete de **[[eslint]] en el sistema**!!
+¡¡**Necesita tener  instalado el paquete de [[eslint]] en el sistema**!!
+
+## [htmlhint](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint)
+Extensión para poder ver los errores en el código html
+¡¡**Necesita tener  instalado el paquete de htmlhint en el sistema**!!
+
 
 ## [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 

@@ -1,8 +1,8 @@
 
 ## Objetivos
 
-- [ ] Aprender a crear un nuevo proyecto en node  #entorno 
-- [ ] Instalar librerías para un proyecto base  #entorno
+- [ ] Aprender a crear un nuevo proyecto en node   📅 2023-12-19 #entorno 
+- [ ] Instalar librerías para un proyecto base 📅 2023-12-19 #entorno
 
 
 ## Nuevo proyecto

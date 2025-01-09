@@ -34,6 +34,8 @@ Está bien que lo haga por nosotros pero  puede ser que algunas cosas nos gusten
 - Creamos un  fichero .prettierrc y  cambiamos las  opciones que no nos gusten, por ejemplo single quotes,  el paréntesis en la función  flecha anterior o la finalización con ;
 - Mira  en https://prettier.io/docs/en/configuration.html
 
+## [codeium](https://codeium.com/vscode_tutorial?extensionName=vscode)
+Extensión para usar IA en VS Code.
 
 
 ## [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)

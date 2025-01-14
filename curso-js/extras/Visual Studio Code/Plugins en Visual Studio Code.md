@@ -41,10 +41,20 @@ Extensión para usar IA en VS Code.
 ## [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 ¡¡**Necesita tener  instalado el paquete de [[eslint]] en el sistema**!!
 
+¡No confundir errores marcados por codeium de eslint!
+
+```bash
+sudo npm install -g eslint
+# o npm i -g eslint para acortar
+```
+
 ## [htmlhint](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint)
 Extensión para poder ver los errores en el código html
 ¡¡**Necesita tener  instalado el paquete de htmlhint en el sistema**!!
 
+```bash
+sudo npm i -g htmlhint
+```
 
 ## [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
@@ -55,6 +65,7 @@ Subraya etiquetas **TODO** y  **FIXME**
 Muestra listado de etiquetas
 
 ## [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
+Para ejecutar código de js directamente en el editor de código
 
 ## [Snippets para ecosistema React y ES7](ES7+ React/Redux/React-Native snippetsES7+ React/Redux/React-Native snippets)
 

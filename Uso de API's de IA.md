@@ -1,4 +1,8 @@
 
+https://gptforwork.com/tools/openai-chatgpt-api-pricing-calculator
+
+https://platform.openai.com/tokenizer
+
 - Utilizaremos Gemini de Google, ya que [permite un uso bastante extensivo para prototipos o aplicaciones con poca demanda](https://ai.google.dev/gemini-api/docs/pricing), hasta 1500 req/day.
 - https://aistudio.google.com/
 

@@ -143,9 +143,10 @@ COPY ./dist /usr/share/nginx/html
 ```
 
 - docker-compose.yml:
-```
+```yml
 services:
   web:
+    # image: <mi-contenedor-en-docker-hub>
     build:
       context: .
       # dockerfile: Dockerfile
